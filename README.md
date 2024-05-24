@@ -1,4 +1,4 @@
-# FS22ModUpdater
+# FS22ModUpdater.
 
 A bad batch script that updates and installs mods from a farming simulator 22 FTP server. Works on all Windows machines.
 

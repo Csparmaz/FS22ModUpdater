@@ -1,4 +1,5 @@
-# FS22ModUpdater.
+# FS22ModUpdater. //RECOMMENDED TO NOT USE!!!!
+extremely insecure and janky. it includes your ftp link WITH password, it downloads files to your active modfolders (as if fs mods dont have enough viruses) and its just bad in general. not recommended but it works ig
 
 A bad batch script that updates and installs mods from a farming simulator 22 FTP server. Works on all Windows machines.
 
